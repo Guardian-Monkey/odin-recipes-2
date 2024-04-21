@@ -29,6 +29,10 @@ h1 {
     border: 4px dotted black;
 }
 
+#menu li {
+    margin: 20px;
+}
+
 a {
     color: rgb(41, 140, 221);
 }
