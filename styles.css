@@ -11,6 +11,8 @@ html {
 body {
     font-family: Verdana, Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
+    background-color: #669bbc;
+    color: #faedcd;
 }
 
 h1 {
@@ -25,7 +27,7 @@ h1 {
     text-align: center;
     padding: 20px;
     margin: 0 auto;
-    background-color: rgb(251, 244, 208);
+    background-color: #faedcd;
     border: 4px dotted black;
 }
 
@@ -34,5 +36,5 @@ h1 {
 }
 
 a {
-    color: rgb(41, 140, 221);
+    color: #780000;
 }
